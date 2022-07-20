@@ -1,3 +1,3 @@
 # EMcapsulin
 
-Here is a test version of my code.
+Image analysis of TEM micrographs.
